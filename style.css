@@ -1,0 +1,42 @@
+body{
+  background-color:burlywood;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#time{
+  font-size:100px;
+  padding:10px;
+  border-radius: 10px;
+  border-left:50px;
+  background-color:whitesmoke;
+
+}
+
+#laps{
+  border-radius: 8px;
+  padding:10px;
+  font-size:25px;
+  
+  color:black;
+  position: relative;
+  display: block;
+
+}
+
+button{
+  
+  
+   font-size: 1.3em;
+    padding: 1em;
+    
+    border-radius: 8px;
+    background-color: #0a0027;
+    color: #ffffff;
+    border: none;
+    position: relative;
+    margin: 1.5em auto 0 auto;
+    display: inline-block;
+}
